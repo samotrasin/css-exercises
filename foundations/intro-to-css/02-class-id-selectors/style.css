@@ -1,0 +1,19 @@
+.pp1{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pp1.pp2{
+    font-size: 24px;
+}
+
+#dd1{
+    color: blue;
+    font-size: 36px;
+}
+
+#dd2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
